@@ -1,0 +1,16 @@
+-classpath 'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\build\\classes\\java\\main;C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\build\\resources\\main;C:\\Users\\Andrey\\.gradle\\caches\\modules-2\\files-2.1\\com.beust\\jcommander\\1.78\\a3927de9bd6f351429bcf763712c9890629d8f51\\jcommander-1.78.jar;C:\\Users\\Andrey\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.8.6\\9180733b7df8542621dc12e21e87557e8c99b8cb\\gson-2.8.6.jar'
+-d 'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\build\\docs\\javadoc'
+-doctitle 'JSON_Database-task API'
+-notimestamp 
+-quiet 
+-windowtitle 'JSON_Database-task API'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\client\\Args.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\client\\Client.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\client\\Command.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\client\\Main.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Command.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Database.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Main.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Parser.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Question.java'
+'C:\\Users\\Andrey\\IdeaProjects\\JSON Database\\JSON Database\\task\\src\\server\\Server.java'
